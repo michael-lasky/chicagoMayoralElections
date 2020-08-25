@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<File Time="03/13/2019 10:40am">
+<Race>
+  <Name1>MAYOR</Name1>
+  <Name2>MAYOR</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>2069</TotalPrecincts>
+  <PrecinctsReported>2069</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>300</RaceNumber>
+  <LastUpdate>10:34am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>556,758</VotesCast>
+  <RaceId>2581</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>97,667</Votes>
+    <PercentageOfVotesCast>18</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>89,343</Votes>
+    <PercentageOfVotesCast>16</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 1</Name1>
+  <Name2>Ward 1</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>44</TotalPrecincts>
+  <PrecinctsReported>44</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>301</RaceNumber>
+  <LastUpdate>08:59pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>12,431</VotesCast>
+  <RaceId>2531</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>3,198</Votes>
+    <PercentageOfVotesCast>26</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>2,020</Votes>
+    <PercentageOfVotesCast>16</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 2</Name1>
+  <Name2>Ward 2</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>46</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>302</RaceNumber>
+  <LastUpdate>09:00pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>13,694</VotesCast>
+  <RaceId>2532</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>3,088</Votes>
+    <PercentageOfVotesCast>23</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,630</Votes>
+    <PercentageOfVotesCast>12</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate></Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 3</Name1>
+  <Name2>Ward 3</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>303</RaceNumber>
+  <LastUpdate>09:01pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>13,533</VotesCast>
+  <RaceId>2533</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>3,097</Votes>
+    <PercentageOfVotesCast>23</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>2,457</Votes>
+    <PercentageOfVotesCast>18</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 4</Name1>
+  <Name2>Ward 4</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>38</TotalPrecincts>
+  <PrecinctsReported>38</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>304</RaceNumber>
+  <LastUpdate>09:02pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>14,362</VotesCast>
+  <RaceId>2534</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>4,520</Votes>
+    <PercentageOfVotesCast>31</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>2,865</Votes>
+    <PercentageOfVotesCast>20</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 5</Name1>
+  <Name2>Ward 5</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>305</RaceNumber>
+  <LastUpdate>09:03pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>13,359</VotesCast>
+  <RaceId>2535</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>4,599</Votes>
+    <PercentageOfVotesCast>34</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>2,804</Votes>
+    <PercentageOfVotesCast>21</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 6</Name1>
+  <Name2>Ward 6</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>48</TotalPrecincts>
+  <PrecinctsReported>48</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>306</RaceNumber>
+  <LastUpdate>09:04pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>10,362</VotesCast>
+  <RaceId>2536</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>2,611</Votes>
+    <PercentageOfVotesCast>25</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,522</Votes>
+    <PercentageOfVotesCast>15</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 7</Name1>
+  <Name2>Ward 7</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>46</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>307</RaceNumber>
+  <LastUpdate>09:06pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>10,325</VotesCast>
+  <RaceId>2537</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>2,505</Votes>
+    <PercentageOfVotesCast>24</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,492</Votes>
+    <PercentageOfVotesCast>14</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 8</Name1>
+  <Name2>Ward 8</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>56</TotalPrecincts>
+  <PrecinctsReported>56</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>308</RaceNumber>
+  <LastUpdate>09:07pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>13,789</VotesCast>
+  <RaceId>2538</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>3,639</Votes>
+    <PercentageOfVotesCast>26</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>2,035</Votes>
+    <PercentageOfVotesCast>15</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 9</Name1>
+  <Name2>Ward 9</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>51</TotalPrecincts>
+  <PrecinctsReported>51</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>309</RaceNumber>
+  <LastUpdate>09:08pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>11,562</VotesCast>
+  <RaceId>2539</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>2,638</Votes>
+    <PercentageOfVotesCast>23</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,641</Votes>
+    <PercentageOfVotesCast>14</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 10</Name1>
+  <Name2>Ward 10</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>36</TotalPrecincts>
+  <PrecinctsReported>36</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>310</RaceNumber>
+  <LastUpdate>09:09pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,461</VotesCast>
+  <RaceId>2540</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>583</Votes>
+    <PercentageOfVotesCast>7</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>537</Votes>
+    <PercentageOfVotesCast>6</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 11</Name1>
+  <Name2>Ward 11</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>38</TotalPrecincts>
+  <PrecinctsReported>38</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>311</RaceNumber>
+  <LastUpdate>09:10pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>10,538</VotesCast>
+  <RaceId>2541</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,210</Votes>
+    <PercentageOfVotesCast>11</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>815</Votes>
+    <PercentageOfVotesCast>8</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 12</Name1>
+  <Name2>Ward 12</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>23</TotalPrecincts>
+  <PrecinctsReported>23</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>312</RaceNumber>
+  <LastUpdate>09:11pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>5,907</VotesCast>
+  <RaceId>2542</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>498</Votes>
+    <PercentageOfVotesCast>8</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>481</Votes>
+    <PercentageOfVotesCast>8</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 13</Name1>
+  <Name2>Ward 13</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>48</TotalPrecincts>
+  <PrecinctsReported>48</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>313</RaceNumber>
+  <LastUpdate>09:12pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>12,561</VotesCast>
+  <RaceId>2543</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>609</Votes>
+    <PercentageOfVotesCast>5</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>511</Votes>
+    <PercentageOfVotesCast>3</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 14</Name1>
+  <Name2>Ward 14</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>31</TotalPrecincts>
+  <PrecinctsReported>31</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>314</RaceNumber>
+  <LastUpdate>09:13pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>7,279</VotesCast>
+  <RaceId>2544</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>372</Votes>
+    <PercentageOfVotesCast>5</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>352</Votes>
+    <PercentageOfVotesCast>4</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 15</Name1>
+  <Name2>Ward 15</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>24</TotalPrecincts>
+  <PrecinctsReported>24</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>315</RaceNumber>
+  <LastUpdate>09:14pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>5,125</VotesCast>
+  <RaceId>2545</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>570</Votes>
+    <PercentageOfVotesCast>11</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>342</Votes>
+    <PercentageOfVotesCast>7</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 16</Name1>
+  <Name2>Ward 16</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>36</TotalPrecincts>
+  <PrecinctsReported>36</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>316</RaceNumber>
+  <LastUpdate>09:37pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>5,674</VotesCast>
+  <RaceId>2546</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,098</Votes>
+    <PercentageOfVotesCast>19</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>573</Votes>
+    <PercentageOfVotesCast>10</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 17</Name1>
+  <Name2>Ward 17</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>317</RaceNumber>
+  <LastUpdate>09:29am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,063</VotesCast>
+  <RaceId>2547</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,757</Votes>
+    <PercentageOfVotesCast>22</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>946</Votes>
+    <PercentageOfVotesCast>12</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 18</Name1>
+  <Name2>Ward 18</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>50</TotalPrecincts>
+  <PrecinctsReported>50</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>318</RaceNumber>
+  <LastUpdate>09:31am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>12,118</VotesCast>
+  <RaceId>2548</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>2,227</Votes>
+    <PercentageOfVotesCast>18</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,559</Votes>
+    <PercentageOfVotesCast>13</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 19</Name1>
+  <Name2>Ward 19</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>57</TotalPrecincts>
+  <PrecinctsReported>57</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>319</RaceNumber>
+  <LastUpdate>09:32am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>21,307</VotesCast>
+  <RaceId>2549</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,809</Votes>
+    <PercentageOfVotesCast>8</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,724</Votes>
+    <PercentageOfVotesCast>8</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 20</Name1>
+  <Name2>Ward 20</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>39</TotalPrecincts>
+  <PrecinctsReported>39</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>320</RaceNumber>
+  <LastUpdate>09:34am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>7,652</VotesCast>
+  <RaceId>2550</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,780</Votes>
+    <PercentageOfVotesCast>23</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,122</Votes>
+    <PercentageOfVotesCast>15</PercentageOfVotesCast>
+  </Candidate></Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 21</Name1>
+  <Name2>Ward 21</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>54</TotalPrecincts>
+  <PrecinctsReported>54</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>321</RaceNumber>
+  <LastUpdate>09:35am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>12,602</VotesCast>
+  <RaceId>2551</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>3,049</Votes>
+    <PercentageOfVotesCast>24</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,713</Votes>
+    <PercentageOfVotesCast>14</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 22</Name1>
+  <Name2>Ward 22</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>25</TotalPrecincts>
+  <PrecinctsReported>25</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>322</RaceNumber>
+  <LastUpdate>09:37am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>4,951</VotesCast>
+  <RaceId>2552</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>583</Votes>
+    <PercentageOfVotesCast>12</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>327</Votes>
+    <PercentageOfVotesCast>6</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 23</Name1>
+  <Name2>Ward 23</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>39</TotalPrecincts>
+  <PrecinctsReported>39</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>323</RaceNumber>
+  <LastUpdate>09:39am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>9,120</VotesCast>
+  <RaceId>2553</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>499</Votes>
+    <PercentageOfVotesCast>5</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>405</Votes>
+    <PercentageOfVotesCast>4</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 24</Name1>
+  <Name2>Ward 24</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>324</RaceNumber>
+  <LastUpdate>09:41am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>6,503</VotesCast>
+  <RaceId>2554</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,378</Votes>
+    <PercentageOfVotesCast>21</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>739</Votes>
+    <PercentageOfVotesCast>11</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 25</Name1>
+  <Name2>Ward 25</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>32</TotalPrecincts>
+  <PrecinctsReported>32</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>325</RaceNumber>
+  <LastUpdate>09:43am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>9,837</VotesCast>
+  <RaceId>2555</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,613</Votes>
+    <PercentageOfVotesCast>16</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,376</Votes>
+    <PercentageOfVotesCast>14</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 26</Name1>
+  <Name2>Ward 26</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>49</TotalPrecincts>
+  <PrecinctsReported>49</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>326</RaceNumber>
+  <LastUpdate>09:46am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,902</VotesCast>
+  <RaceId>2556</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,594</Votes>
+    <PercentageOfVotesCast>18</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,551</Votes>
+    <PercentageOfVotesCast>17</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 27</Name1>
+  <Name2>Ward 27</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>50</TotalPrecincts>
+  <PrecinctsReported>50</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>327</RaceNumber>
+  <LastUpdate>09:48am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>10,518</VotesCast>
+  <RaceId>2557</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>2,012</Votes>
+    <PercentageOfVotesCast>19</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,772</Votes>
+    <PercentageOfVotesCast>17</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 28</Name1>
+  <Name2>Ward 28</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>46</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>328</RaceNumber>
+  <LastUpdate>09:49am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,392</VotesCast>
+  <RaceId>2558</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,463</Votes>
+    <PercentageOfVotesCast>17</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,231</Votes>
+    <PercentageOfVotesCast>15</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 29</Name1>
+  <Name2>Ward 29</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>44</TotalPrecincts>
+  <PrecinctsReported>44</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>329</RaceNumber>
+  <LastUpdate>09:54am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>10,879</VotesCast>
+  <RaceId>2559</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,911</Votes>
+    <PercentageOfVotesCast>18</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,447</Votes>
+    <PercentageOfVotesCast>13</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 30</Name1>
+  <Name2>Ward 30</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>32</TotalPrecincts>
+  <PrecinctsReported>32</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>330</RaceNumber>
+  <LastUpdate>09:57am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,233</VotesCast>
+  <RaceId>2560</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,154</Votes>
+    <PercentageOfVotesCast>14</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>885</Votes>
+    <PercentageOfVotesCast>11</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 31</Name1>
+  <Name2>Ward 31</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>331</RaceNumber>
+  <LastUpdate>09:59am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>6,505</VotesCast>
+  <RaceId>2561</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>820</Votes>
+    <PercentageOfVotesCast>13</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>708</Votes>
+    <PercentageOfVotesCast>11</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 32</Name1>
+  <Name2>Ward 32</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>43</TotalPrecincts>
+  <PrecinctsReported>43</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>332</RaceNumber>
+  <LastUpdate>10:01am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>13,410</VotesCast>
+  <RaceId>2562</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>3,947</Votes>
+    <PercentageOfVotesCast>29</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,822</Votes>
+    <PercentageOfVotesCast>14</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 33</Name1>
+  <Name2>Ward 33</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>28</TotalPrecincts>
+  <PrecinctsReported>28</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>333</RaceNumber>
+  <LastUpdate>10:02am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>11,016</VotesCast>
+  <RaceId>2563</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>2,768</Votes>
+    <PercentageOfVotesCast>25</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,774</Votes>
+    <PercentageOfVotesCast>16</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 34</Name1>
+  <Name2>Ward 34</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>53</TotalPrecincts>
+  <PrecinctsReported>53</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>334</RaceNumber>
+  <LastUpdate>10:05am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>11,822</VotesCast>
+  <RaceId>2564</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>2,716</Votes>
+    <PercentageOfVotesCast>23</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,623</Votes>
+    <PercentageOfVotesCast>14</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 35</Name1>
+  <Name2>Ward 35</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>31</TotalPrecincts>
+  <PrecinctsReported>31</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>335</RaceNumber>
+  <LastUpdate>10:06am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,013</VotesCast>
+  <RaceId>2565</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,788</Votes>
+    <PercentageOfVotesCast>22</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,461</Votes>
+    <PercentageOfVotesCast>18</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 36</Name1>
+  <Name2>Ward 36</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>30</TotalPrecincts>
+  <PrecinctsReported>30</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>336</RaceNumber>
+  <LastUpdate>10:07am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>5,826</VotesCast>
+  <RaceId>2566</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>565</Votes>
+    <PercentageOfVotesCast>10</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>508</Votes>
+    <PercentageOfVotesCast>9</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 37</Name1>
+  <Name2>Ward 37</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>337</RaceNumber>
+  <LastUpdate>10:12am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>7,758</VotesCast>
+  <RaceId>2567</RaceId>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,416</Votes>
+    <PercentageOfVotesCast>18</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>843</Votes>
+    <PercentageOfVotesCast>11</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 38</Name1>
+  <Name2>Ward 38</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>338</RaceNumber>
+  <LastUpdate>10:14am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>11,006</VotesCast>
+  <RaceId>2568</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,225</Votes>
+    <PercentageOfVotesCast>11</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>806</Votes>
+    <PercentageOfVotesCast>7</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 39</Name1>
+  <Name2>Ward 39</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>45</TotalPrecincts>
+  <PrecinctsReported>45</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>339</RaceNumber>
+  <LastUpdate>10:17am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>13,391</VotesCast>
+  <RaceId>2569</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>2,387</Votes>
+    <PercentageOfVotesCast>18</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,527</Votes>
+    <PercentageOfVotesCast>11</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 40</Name1>
+  <Name2>Ward 40</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>39</TotalPrecincts>
+  <PrecinctsReported>39</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>340</RaceNumber>
+  <LastUpdate>10:18am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>13,475</VotesCast>
+  <RaceId>2570</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>4,027</Votes>
+    <PercentageOfVotesCast>30</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>2,274</Votes>
+    <PercentageOfVotesCast>17</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 41</Name1>
+  <Name2>Ward 41</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>47</TotalPrecincts>
+  <PrecinctsReported>47</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>341</RaceNumber>
+  <LastUpdate>10:20am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>17,924</VotesCast>
+  <RaceId>2571</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,594</Votes>
+    <PercentageOfVotesCast>9</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>911</Votes>
+    <PercentageOfVotesCast>5</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 42</Name1>
+  <Name2>Ward 42</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>42</TotalPrecincts>
+  <PrecinctsReported>42</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>342</RaceNumber>
+  <LastUpdate>10:21am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>13,690</VotesCast>
+  <RaceId>2572</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>2,868</Votes>
+    <PercentageOfVotesCast>21</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,502</Votes>
+    <PercentageOfVotesCast>11</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 43</Name1>
+  <Name2>Ward 43</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>46</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>343</RaceNumber>
+  <LastUpdate>10:23am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>14,472</VotesCast>
+  <RaceId>2573</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>3,365</Votes>
+    <PercentageOfVotesCast>23</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,659</Votes>
+    <PercentageOfVotesCast>11</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 44</Name1>
+  <Name2>Ward 44</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>344</RaceNumber>
+  <LastUpdate>10:24am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>15,352</VotesCast>
+  <RaceId>2574</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>4,453</Votes>
+    <PercentageOfVotesCast>29</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>2,132</Votes>
+    <PercentageOfVotesCast>14</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 45</Name1>
+  <Name2>Ward 45</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>48</TotalPrecincts>
+  <PrecinctsReported>48</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>345</RaceNumber>
+  <LastUpdate>10:25am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>14,962</VotesCast>
+  <RaceId>2575</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>2,313</Votes>
+    <PercentageOfVotesCast>15</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,455</Votes>
+    <PercentageOfVotesCast>10</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 46</Name1>
+  <Name2>Ward 46</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>40</TotalPrecincts>
+  <PrecinctsReported>40</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>346</RaceNumber>
+  <LastUpdate>10:26am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>14,131</VotesCast>
+  <RaceId>2576</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>4,163</Votes>
+    <PercentageOfVotesCast>29</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>2,426</Votes>
+    <PercentageOfVotesCast>17</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 47</Name1>
+  <Name2>Ward 47</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>48</TotalPrecincts>
+  <PrecinctsReported>48</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>347</RaceNumber>
+  <LastUpdate>10:27am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>19,620</VotesCast>
+  <RaceId>2577</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>6,216</Votes>
+    <PercentageOfVotesCast>32</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>3,159</Votes>
+    <PercentageOfVotesCast>16</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 48</Name1>
+  <Name2>Ward 48</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>46</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>348</RaceNumber>
+  <LastUpdate>10:29am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>15,373</VotesCast>
+  <RaceId>2578</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>5,056</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>3,046</Votes>
+    <PercentageOfVotesCast>20</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 49</Name1>
+  <Name2>Ward 49</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>33</TotalPrecincts>
+  <PrecinctsReported>33</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>349</RaceNumber>
+  <LastUpdate>10:30am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>12,424</VotesCast>
+  <RaceId>2579</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>3,328</Votes>
+    <PercentageOfVotesCast>27</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>2,918</Votes>
+    <PercentageOfVotesCast>23</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 50</Name1>
+  <Name2>Ward 50</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>40</TotalPrecincts>
+  <PrecinctsReported>40</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>350</RaceNumber>
+  <LastUpdate>10:31am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>9,185</VotesCast>
+  <RaceId>2580</RaceId>
+  <Candidate>
+    <CandName2>12</CandName2>
+    <Name>Lori Lightfoot </Name>
+    <LastName>Lightfoot</LastName>
+    <Votes>1,610</Votes>
+    <PercentageOfVotesCast>18</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>4</CandName2>
+    <Name>Toni Preckwinkle </Name>
+    <LastName>Preckwinkle</LastName>
+    <Votes>1,293</Votes>
+    <PercentageOfVotesCast>14</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+</File>

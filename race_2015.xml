@@ -1,0 +1,1540 @@
+<File Time="02/19/2019 11:50am">
+<Race>
+  <Name1>MAYOR</Name1>
+  <Name2>MAYOR</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>2069</TotalPrecincts>
+  <PrecinctsReported>2069</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>500</RaceNumber>
+  <LastUpdate>12:00am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>478,204</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>218,217</Votes>
+    <PercentageOfVotesCast>46</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia </Name>
+    <LastName>Garcia</LastName>
+    <Votes>160,414</Votes>
+    <PercentageOfVotesCast>33.6</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>3</CandName2>
+    <Name>Willie L.  Wilson </Name>
+    <LastName>Wilson</LastName>
+    <Votes>50,960</Votes>
+    <PercentageOfVotesCast>10.7</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 1</Name1>
+  <Name2>Ward 1</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>44</TotalPrecincts>
+  <PrecinctsReported>44</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>501</RaceNumber>
+  <LastUpdate>06:06am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,458</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>4128</Votes>
+    <PercentageOfVotesCast>49</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>3349</Votes>
+    <PercentageOfVotesCast>40</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 2</Name1>
+  <Name2>Ward 2</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>46</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>502</RaceNumber>
+  <LastUpdate>06:21am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>10,434</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>6727</Votes>
+    <PercentageOfVotesCast>65</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>2428</Votes>
+    <PercentageOfVotesCast>23</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 3</Name1>
+  <Name2>Ward 3</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>503</RaceNumber>
+  <LastUpdate>06:11am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>10,645</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>5223</Votes>
+    <PercentageOfVotesCast>49</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>2211</Votes>
+    <PercentageOfVotesCast>21</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 4</Name1>
+  <Name2>Ward 4</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>38</TotalPrecincts>
+  <PrecinctsReported>38</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>504</RaceNumber>
+  <LastUpdate>06:11am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>11,958</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>5329</Votes>
+    <PercentageOfVotesCast>45</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3396</Votes>
+    <PercentageOfVotesCast>28</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 5</Name1>
+  <Name2>Ward 5</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>505</RaceNumber>
+  <LastUpdate>06:12am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>11,563</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>5088</Votes>
+    <PercentageOfVotesCast>45</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3890</Votes>
+    <PercentageOfVotesCast>34</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 6</Name1>
+  <Name2>Ward 6</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>48</TotalPrecincts>
+  <PrecinctsReported>48</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>506</RaceNumber>
+  <LastUpdate>06:13am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>110,33</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>4703</Votes>
+    <PercentageOfVotesCast>43</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>3</CandName2>
+    <Name>Willie L.  Wilson </Name>
+    <LastName>Wilson</LastName>
+    <Votes>2569</Votes>
+    <PercentageOfVotesCast>23</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 7</Name1>
+  <Name2>Ward 7</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>46</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>507</RaceNumber>
+  <LastUpdate>06:16am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>10,718</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>4690</Votes>
+    <PercentageOfVotesCast>44</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>2595</Votes>
+    <PercentageOfVotesCast>24</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 8</Name1>
+  <Name2>Ward 8</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>56</TotalPrecincts>
+  <PrecinctsReported>56</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>508</RaceNumber>
+  <LastUpdate>06:16am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>13,686</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>5938</Votes>
+    <PercentageOfVotesCast>43</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3289</Votes>
+    <PercentageOfVotesCast>24</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 9</Name1>
+  <Name2>Ward 9</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>51</TotalPrecincts>
+  <PrecinctsReported>51</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>509</RaceNumber>
+  <LastUpdate>06:17am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>11,978</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>5186</Votes>
+    <PercentageOfVotesCast>43</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>3</CandName2>
+    <Name>Willie L.  Wilson </Name>
+    <LastName>Wilson</LastName>
+    <Votes>2873</Votes>
+    <PercentageOfVotesCast>24</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 10</Name1>
+  <Name2>Ward 10</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>36</TotalPrecincts>
+  <PrecinctsReported>36</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>510</RaceNumber>
+  <LastUpdate>06:17am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>9,501</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>4501</Votes>
+    <PercentageOfVotesCast>47</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>3586</Votes>
+    <PercentageOfVotesCast>38</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 11</Name1>
+  <Name2>Ward 11</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>38</TotalPrecincts>
+  <PrecinctsReported>38</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>511</RaceNumber>
+  <LastUpdate>06:18am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>9,629</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>4711</Votes>
+    <PercentageOfVotesCast>49</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3140</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 12</Name1>
+  <Name2>Ward 12</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>23</TotalPrecincts>
+  <PrecinctsReported>23</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>512</RaceNumber>
+  <LastUpdate>06:18am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>4,997</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3335</Votes>
+    <PercentageOfVotesCast>67</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>1284</Votes>
+    <PercentageOfVotesCast>26</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 13</Name1>
+  <Name2>Ward 13</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>48</TotalPrecincts>
+  <PrecinctsReported>48</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>513</RaceNumber>
+  <LastUpdate>06:19am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>11,187</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>5822</Votes>
+    <PercentageOfVotesCast>52</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>4067</Votes>
+    <PercentageOfVotesCast>36</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 14</Name1>
+  <Name2>Ward 14</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>31</TotalPrecincts>
+  <PrecinctsReported>31</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>514</RaceNumber>
+  <LastUpdate>06:20am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>6,036</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3151</Votes>
+    <PercentageOfVotesCast>52</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>2293</Votes>
+    <PercentageOfVotesCast>38</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 15</Name1>
+  <Name2>Ward 15</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>24</TotalPrecincts>
+  <PrecinctsReported>24</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>515</RaceNumber>
+  <LastUpdate>06:23am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>4,673</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>2394</Votes>
+    <PercentageOfVotesCast>51</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>1403</Votes>
+    <PercentageOfVotesCast>30</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 16</Name1>
+  <Name2>Ward 16</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>36</TotalPrecincts>
+  <PrecinctsReported>36</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>516</RaceNumber>
+  <LastUpdate>06:23am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>6,146</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>2451</Votes>
+    <PercentageOfVotesCast>40</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>3</CandName2>
+    <Name>Willie L.  Wilson </Name>
+    <LastName>Wilson</LastName>
+    <Votes>1641</Votes>
+    <PercentageOfVotesCast>27</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 17</Name1>
+  <Name2>Ward 17</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>517</RaceNumber>
+  <LastUpdate>06:24am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,729</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>3499</Votes>
+    <PercentageOfVotesCast>40</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>3</CandName2>
+    <Name>Willie L.  Wilson </Name>
+    <LastName>Wilson</LastName>
+    <Votes>2313</Votes>
+    <PercentageOfVotesCast>26.5</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 18</Name1>
+  <Name2>Ward 18</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>50</TotalPrecincts>
+  <PrecinctsReported>50</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>518</RaceNumber>
+  <LastUpdate>06:26am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>12,294</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>4794</Votes>
+    <PercentageOfVotesCast>39</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3988</Votes>
+    <PercentageOfVotesCast>32</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 19</Name1>
+  <Name2>Ward 19</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>57</TotalPrecincts>
+  <PrecinctsReported>57</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>519</RaceNumber>
+  <LastUpdate>06:26am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>18,147</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>7613</Votes>
+    <PercentageOfVotesCast>42</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>6509</Votes>
+    <PercentageOfVotesCast>36</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 20</Name1>
+  <Name2>Ward 20</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>39</TotalPrecincts>
+  <PrecinctsReported>39</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>520</RaceNumber>
+  <LastUpdate>06:27am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>6,918</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>2808</Votes>
+    <PercentageOfVotesCast>41</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>1798</Votes>
+    <PercentageOfVotesCast>26</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 21</Name1>
+  <Name2>Ward 21</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>54</TotalPrecincts>
+  <PrecinctsReported>54</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>521</RaceNumber>
+  <LastUpdate>06:27am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>13,389</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>5698</Votes>
+    <PercentageOfVotesCast>43</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>3</CandName2>
+    <Name>Willie L.  Wilson </Name>
+    <LastName>Wilson</LastName>
+    <Votes>3249</Votes>
+    <PercentageOfVotesCast>24</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 22</Name1>
+  <Name2>Ward 22</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>25</TotalPrecincts>
+  <PrecinctsReported>25</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>522</RaceNumber>
+  <LastUpdate>06:28am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>5,322</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3711</Votes>
+    <PercentageOfVotesCast>70</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>1127</Votes>
+    <PercentageOfVotesCast>21</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 23</Name1>
+  <Name2>Ward 23</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>39</TotalPrecincts>
+  <PrecinctsReported>39</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>523</RaceNumber>
+  <LastUpdate>06:29am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>9,625</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>4165</Votes>
+    <PercentageOfVotesCast>43</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>3868</Votes>
+    <PercentageOfVotesCast>40</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 24</Name1>
+  <Name2>Ward 24</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>524</RaceNumber>
+  <LastUpdate>06:29am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>7,268</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>2653</Votes>
+    <PercentageOfVotesCast>36.5</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>3</CandName2>
+    <Name>Willie L.  Wilson </Name>
+    <LastName>Wilson</LastName>
+    <Votes>2209</Votes>
+    <PercentageOfVotesCast>30</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 25</Name1>
+  <Name2>Ward 25</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>32</TotalPrecincts>
+  <PrecinctsReported>32</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>525</RaceNumber>
+  <LastUpdate>06:30am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>7,742</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>4331</Votes>
+    <PercentageOfVotesCast>56</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>2586</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 26</Name1>
+  <Name2>Ward 26</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>49</TotalPrecincts>
+  <PrecinctsReported>49</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>526</RaceNumber>
+  <LastUpdate>06:30am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>6,790</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3665</Votes>
+    <PercentageOfVotesCast>54</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>2331</Votes>
+    <PercentageOfVotesCast>34</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 27</Name1>
+  <Name2>Ward 27</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>50</TotalPrecincts>
+  <PrecinctsReported>50</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>527</RaceNumber>
+  <LastUpdate>06:31am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,827</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>4291</Votes>
+    <PercentageOfVotesCast>47</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>1911</Votes>
+    <PercentageOfVotesCast>22</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 28</Name1>
+  <Name2>Ward 28</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>46</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>528</RaceNumber>
+  <LastUpdate>06:32am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>7,725</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>3084</Votes>
+    <PercentageOfVotesCast>40</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>3</CandName2>
+    <Name>Willie L.  Wilson </Name>
+    <LastName>Wilson</LastName>
+    <Votes>2043</Votes>
+    <PercentageOfVotesCast>26</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 29</Name1>
+  <Name2>Ward 29</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>44</TotalPrecincts>
+  <PrecinctsReported>44</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>529</RaceNumber>
+  <LastUpdate>06:32am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>11,103</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>4662</Votes>
+    <PercentageOfVotesCast>42</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>2748</Votes>
+    <PercentageOfVotesCast>25</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 30</Name1>
+  <Name2>Ward 30</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>32</TotalPrecincts>
+  <PrecinctsReported>32</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>530</RaceNumber>
+  <LastUpdate>06:33am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>5,096</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>2489</Votes>
+    <PercentageOfVotesCast>49</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>2018</Votes>
+    <PercentageOfVotesCast>40</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 31</Name1>
+  <Name2>Ward 31</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>531</RaceNumber>
+  <LastUpdate>06:37am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>5,863</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>2996</Votes>
+    <PercentageOfVotesCast>51</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>2381</Votes>
+    <PercentageOfVotesCast>41</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 32</Name1>
+  <Name2>Ward 32</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>43</TotalPrecincts>
+  <PrecinctsReported>43</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>532</RaceNumber>
+  <LastUpdate>06:38am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,634</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>4111</Votes>
+    <PercentageOfVotesCast>48</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3559</Votes>
+    <PercentageOfVotesCast>41</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 33</Name1>
+  <Name2>Ward 33</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>28</TotalPrecincts>
+  <PrecinctsReported>28</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>533</RaceNumber>
+  <LastUpdate>06:38am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,325</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>4084</Votes>
+    <PercentageOfVotesCast>49</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>3332</Votes>
+    <PercentageOfVotesCast>40</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 34</Name1>
+  <Name2>Ward 34</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>53</TotalPrecincts>
+  <PrecinctsReported>53</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>534</RaceNumber>
+  <LastUpdate>06:39am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>12,586</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>5722</Votes>
+    <PercentageOfVotesCast>45</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>3</CandName2>
+    <Name>Willie L.  Wilson </Name>
+    <LastName>Wilson</LastName>
+    <Votes>3127</Votes>
+    <PercentageOfVotesCast>25</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 35</Name1>
+  <Name2>Ward 35</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>31</TotalPrecincts>
+  <PrecinctsReported>31</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>535</RaceNumber>
+  <LastUpdate>06:39am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>6,274</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3580</Votes>
+    <PercentageOfVotesCast>57</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>2110</Votes>
+    <PercentageOfVotesCast>34</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 36</Name1>
+  <Name2>Ward 36</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>30</TotalPrecincts>
+  <PrecinctsReported>30</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>536</RaceNumber>
+  <LastUpdate>07:00am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>6,055</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>2731</Votes>
+    <PercentageOfVotesCast>45</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>2380</Votes>
+    <PercentageOfVotesCast>39</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 37</Name1>
+  <Name2>Ward 37</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>537</RaceNumber>
+  <LastUpdate>07:00am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,373</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>3465</Votes>
+    <PercentageOfVotesCast>41</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>3</CandName2>
+    <Name>Willie L.  Wilson </Name>
+    <LastName>Wilson</LastName>
+    <Votes>2372</Votes>
+    <PercentageOfVotesCast>28</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 38</Name1>
+  <Name2>Ward 38</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>538</RaceNumber>
+  <LastUpdate>07:01am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>11,246</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>5408</Votes>
+    <PercentageOfVotesCast>48</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3723</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 39</Name1>
+  <Name2>Ward 39</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>45</TotalPrecincts>
+  <PrecinctsReported>45</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>539</RaceNumber>
+  <LastUpdate>07:02am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>11,342</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>5499</Votes>
+    <PercentageOfVotesCast>48</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>4202</Votes>
+    <PercentageOfVotesCast>37</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 40</Name1>
+  <Name2>Ward 40</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>39</TotalPrecincts>
+  <PrecinctsReported>39</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>540</RaceNumber>
+  <LastUpdate>07:02am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>9,805</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>4634</Votes>
+    <PercentageOfVotesCast>47</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>4136</Votes>
+    <PercentageOfVotesCast>42</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 41</Name1>
+  <Name2>Ward 41</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>47</TotalPrecincts>
+  <PrecinctsReported>47</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>541</RaceNumber>
+  <LastUpdate>07:03am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>14,965</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>7153</Votes>
+    <PercentageOfVotesCast>48</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>4605</Votes>
+    <PercentageOfVotesCast>31</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 42</Name1>
+  <Name2>Ward 42</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>42</TotalPrecincts>
+  <PrecinctsReported>42</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>542</RaceNumber>
+  <LastUpdate>07:04am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,920</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>6558</Votes>
+    <PercentageOfVotesCast>74</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>1476</Votes>
+    <PercentageOfVotesCast>16</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 43</Name1>
+  <Name2>Ward 43</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>46</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>543</RaceNumber>
+  <LastUpdate>07:04am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>10,571</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>7608</Votes>
+    <PercentageOfVotesCast>72</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>1938</Votes>
+    <PercentageOfVotesCast>18</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 44</Name1>
+  <Name2>Ward 44</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>41</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>544</RaceNumber>
+  <LastUpdate>07:06am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>9,424</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>6055</Votes>
+    <PercentageOfVotesCast>64</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>2543</Votes>
+    <PercentageOfVotesCast>27</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 45</Name1>
+  <Name2>Ward 45</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>48</TotalPrecincts>
+  <PrecinctsReported>48</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>545</RaceNumber>
+  <LastUpdate>07:09am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>12,991</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>6243</Votes>
+    <PercentageOfVotesCast>48</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>4545</Votes>
+    <PercentageOfVotesCast>35</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 46</Name1>
+  <Name2>Ward 46</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>40</TotalPrecincts>
+  <PrecinctsReported>40</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>546</RaceNumber>
+  <LastUpdate>07:10am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>10,563</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>6079</Votes>
+    <PercentageOfVotesCast>58</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3316</Votes>
+    <PercentageOfVotesCast>31</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 47</Name1>
+  <Name2>Ward 47</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>48</TotalPrecincts>
+  <PrecinctsReported>48</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>547</RaceNumber>
+  <LastUpdate>07:10am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>12,488</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>6427</Votes>
+    <PercentageOfVotesCast>51</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>4985</Votes>
+    <PercentageOfVotesCast>40</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 48</Name1>
+  <Name2>Ward 48</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>46</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>548</RaceNumber>
+  <LastUpdate>07:11am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>11,286</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>5906</Votes>
+    <PercentageOfVotesCast>52</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>4220</Votes>
+    <PercentageOfVotesCast>37</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 49</Name1>
+  <Name2>Ward 49</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>33</TotalPrecincts>
+  <PrecinctsReported>33</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>549</RaceNumber>
+  <LastUpdate>07:13am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>8,963</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>3941</Votes>
+    <PercentageOfVotesCast>44.1</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>3893</Votes>
+    <PercentageOfVotesCast>43.6</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Chicago Mayor Ward 50</Name1>
+  <Name2>Ward 50</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Chicago Mayor</Name5>
+  <TotalPrecincts>40</TotalPrecincts>
+  <PrecinctsReported>40</PrecinctsReported>
+  <PrecinctsPercentage>100</PrecinctsPercentage>
+  <RaceNumber>550</RaceNumber>
+  <LastUpdate>07:13am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>7,940</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Rahm  Emanuel </Name>
+    <LastName>Emanuel</LastName>
+    <Votes>4390</Votes>
+    <PercentageOfVotesCast>55</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Jesus "Chuy"  Garcia</Name>
+    <LastName>Garcia</LastName>
+    <Votes>2557</Votes>
+    <PercentageOfVotesCast>32</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+</File>

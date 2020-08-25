@@ -1,0 +1,1464 @@
+<File Time="03/20/2019 11:49am">
+<Race>
+  <Name1>Aldermanic Runoff</Name1>
+  <Name2>Aldermanic Runoff</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>Aldermanic Runoff</Name5>
+  <TotalPrecincts>2069</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>999</RaceNumber>
+  <LastUpdate>04:46am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name> Candidate </Name>
+    <LastName>Candidate</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> Candidate </Name>
+    <LastName>Candidate</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 5th Ward</Name1>
+  <Name2>Ward 5</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>5th Ward Alderman</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>11</PrecinctsReported>
+  <PrecinctsPercentage>27</PrecinctsPercentage>
+  <RaceNumber>5</RaceNumber>
+  <LastUpdate>03:21pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>33</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>William Calloway </Name>
+    <LastName>Calloway</LastName>
+    <Votes>22</Votes>
+    <PercentageOfVotesCast>67</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Leslie Hairston </Name>
+    <LastName>Hairston</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 6th Ward</Name1>
+  <Name2>Ward 6</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>6th Ward Alderman</Name5>
+  <TotalPrecincts>48</TotalPrecincts>
+  <PrecinctsReported>11</PrecinctsReported>
+  <PrecinctsPercentage>23</PrecinctsPercentage>
+  <RaceNumber>6</RaceNumber>
+  <LastUpdate>11:29am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>33</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Deborah A. Foster-Bonner </Name>
+    <LastName>Foster-Bonner</LastName>
+    <Votes>22</Votes>
+    <PercentageOfVotesCast>67</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Roderick Sawyer </Name>
+    <LastName>Sawyer</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 15th Ward</Name1>
+  <Name2>Ward 15</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>15th Ward Alderman</Name5>
+  <TotalPrecincts>24</TotalPrecincts>
+  <PrecinctsReported>22</PrecinctsReported>
+  <PrecinctsPercentage>92</PrecinctsPercentage>
+  <RaceNumber>15</RaceNumber>
+  <LastUpdate>11:28am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>55,555</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Raymond A. Lopez </Name>
+    <LastName>Lopez</LastName>
+    <Votes>33,333</Votes>
+    <PercentageOfVotesCast>60</PercentageOfVotesCast>
+    <Party>NP</Party>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Rafael &apos;Rafa&apos; Yanez </Name>
+    <LastName>Yanez</LastName>
+    <Votes>22,222</Votes>
+    <PercentageOfVotesCast>40</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 16th Ward</Name1>
+  <Name2>Ward 16</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>16th Ward Alderman</Name5>
+  <TotalPrecincts>36</TotalPrecincts>
+  <PrecinctsReported>11</PrecinctsReported>
+  <PrecinctsPercentage>31</PrecinctsPercentage>
+  <RaceNumber>16</RaceNumber>
+  <LastUpdate>11:28am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>33</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Stephanie Coleman </Name>
+    <LastName>Coleman</LastName>
+    <Votes>22</Votes>
+    <PercentageOfVotesCast>67</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Toni Foulkes </Name>
+    <LastName>Foulkes</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 20th Ward</Name1>
+  <Name2>ward 20</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>20th Ward Alderman</Name5>
+  <TotalPrecincts>39</TotalPrecincts>
+  <PrecinctsReported>11</PrecinctsReported>
+  <PrecinctsPercentage>28</PrecinctsPercentage>
+  <RaceNumber>20</RaceNumber>
+  <LastUpdate>03:21pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>33</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Nicole J. Johnson </Name>
+    <LastName>Johnson</LastName>
+    <Votes>22</Votes>
+    <PercentageOfVotesCast>67</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Jeanette B. Taylor </Name>
+    <LastName>Taylor</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 21st Ward</Name1>
+  <Name2>Ward 21</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>21st Ward Alderman</Name5>
+  <TotalPrecincts>54</TotalPrecincts>
+  <PrecinctsReported>22</PrecinctsReported>
+  <PrecinctsPercentage>41</PrecinctsPercentage>
+  <RaceNumber>21</RaceNumber>
+  <LastUpdate>03:21pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>33</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Howard B. Brookins Jr.</Name>
+    <LastName>Brookins</LastName>
+    <Votes>22</Votes>
+    <PercentageOfVotesCast>67</PercentageOfVotesCast>
+    <Party>NP</Party>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName1>M_Mcneil</CandName1>
+    <CandName2>2</CandName2>
+    <Name>Marvin McNeil </Name>
+    <LastName>McNeil</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 25th Ward</Name1>
+  <Name2>Ward 25</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>25th Ward Alderman</Name5>
+  <TotalPrecincts>32</TotalPrecincts>
+  <PrecinctsReported>11</PrecinctsReported>
+  <PrecinctsPercentage>34</PrecinctsPercentage>
+  <RaceNumber>25</RaceNumber>
+  <LastUpdate>03:21pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>22</VotesCast>
+  <Candidate>
+    <CandName1>B_Sigcholopez</CandName1>
+    <CandName2>1</CandName2>
+    <Name>Byron Sigcho-Lopez </Name>
+    <LastName>Sigcho-Lopez</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>50</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Alexander Acevedo </Name>
+    <LastName>Acevedo</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>50</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 30th Ward</Name1>
+  <Name2>Ward 30</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>30th Ward Alderman</Name5>
+  <TotalPrecincts>32</TotalPrecincts>
+  <PrecinctsReported>11</PrecinctsReported>
+  <PrecinctsPercentage>34</PrecinctsPercentage>
+  <RaceNumber>30</RaceNumber>
+  <LastUpdate>03:21pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>55</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Ariel E. Reboyras </Name>
+    <LastName>Reboyras</LastName>
+    <Votes>33</Votes>
+    <PercentageOfVotesCast>60</PercentageOfVotesCast>
+    <Party>NP</Party>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Jessica W. Gutierrez </Name>
+    <LastName>Gutierrez</LastName>
+    <Votes>22</Votes>
+    <PercentageOfVotesCast>40</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 31st Ward</Name1>
+  <Name2>Ward 31</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>31st Ward Alderman</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>33</PrecinctsReported>
+  <PrecinctsPercentage>80</PrecinctsPercentage>
+  <RaceNumber>31</RaceNumber>
+  <LastUpdate>06:18am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>33</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Felix Cardona Jr. </Name>
+    <LastName>Cardona</LastName>
+    <Votes>22</Votes>
+    <PercentageOfVotesCast>67</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Milagros &quot;Milly&quot; Santiago </Name>
+    <LastName>Santiago</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 33rd Ward</Name1>
+  <Name2>Ward 33</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>33rd Ward Alderman</Name5>
+  <TotalPrecincts>28</TotalPrecincts>
+  <PrecinctsReported>22</PrecinctsReported>
+  <PrecinctsPercentage>79</PrecinctsPercentage>
+  <RaceNumber>33</RaceNumber>
+  <LastUpdate>03:21pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>44</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Deborah Mell </Name>
+    <LastName>Mell</LastName>
+    <Votes>33</Votes>
+    <PercentageOfVotesCast>75</PercentageOfVotesCast>
+    <Party>NP</Party>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>R. Rodriguez Sanchez </Name>
+    <LastName>Sanchez</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>25</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 39th Ward</Name1>
+  <Name2>Ward 39</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>39th Ward Alderman</Name5>
+  <TotalPrecincts>45</TotalPrecincts>
+  <PrecinctsReported>33</PrecinctsReported>
+  <PrecinctsPercentage>73</PrecinctsPercentage>
+  <RaceNumber>39</RaceNumber>
+  <LastUpdate>03:21pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>33</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Robert Murphy </Name>
+    <LastName>Murphy</LastName>
+    <Votes>22</Votes>
+    <PercentageOfVotesCast>67</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Samantha &apos;Sam&apos; Nugent </Name>
+    <LastName>Nugent</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 40th Ward</Name1>
+  <Name2>Ward 40</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>40th Ward Alderman</Name5>
+  <TotalPrecincts>39</TotalPrecincts>
+  <PrecinctsReported>33</PrecinctsReported>
+  <PrecinctsPercentage>85</PrecinctsPercentage>
+  <RaceNumber>40</RaceNumber>
+  <LastUpdate>03:21pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>33</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Andre Vasquez </Name>
+    <LastName>Vasquez</LastName>
+    <Votes>22</Votes>
+    <PercentageOfVotesCast>67</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName1>P_Oconnor</CandName1>
+    <CandName2>1</CandName2>
+    <Name>Patrick O&apos;Connor </Name>
+    <LastName>O&apos;Connor</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 43rd Ward</Name1>
+  <Name2>Ward 43</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>43rd Ward Alderman</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>33</PrecinctsReported>
+  <PrecinctsPercentage>72</PrecinctsPercentage>
+  <RaceNumber>43</RaceNumber>
+  <LastUpdate>03:21pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>33</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Derek Lindblom </Name>
+    <LastName>Lindblom</LastName>
+    <Votes>22</Votes>
+    <PercentageOfVotesCast>67</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Michele Smith </Name>
+    <LastName>Smith</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 46th Ward</Name1>
+  <Name2>Ward 46</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>46th Ward Alderman</Name5>
+  <TotalPrecincts>40</TotalPrecincts>
+  <PrecinctsReported>33</PrecinctsReported>
+  <PrecinctsPercentage>83</PrecinctsPercentage>
+  <RaceNumber>46</RaceNumber>
+  <LastUpdate>11:28am</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>33</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Marianne Lalonde </Name>
+    <LastName>Lalonde</LastName>
+    <Votes>22</Votes>
+    <PercentageOfVotesCast>67</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>James Cappleman </Name>
+    <LastName>Cappleman</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 47th Ward</Name1>
+  <Name2>Ward 47</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>47th Ward Alderman</Name5>
+  <TotalPrecincts>48</TotalPrecincts>
+  <PrecinctsReported>33</PrecinctsReported>
+  <PrecinctsPercentage>69</PrecinctsPercentage>
+  <RaceNumber>47</RaceNumber>
+  <LastUpdate>03:21pm</LastUpdate>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>33</VotesCast>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name>Michael A. Negron </Name>
+    <LastName>Negron</LastName>
+    <Votes>22</Votes>
+    <PercentageOfVotesCast>67</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Matt Martin </Name>
+    <LastName>Martin</LastName>
+    <Votes>11</Votes>
+    <PercentageOfVotesCast>33</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 1st Ward</Name1>
+  <Name2>Ward 1</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>1st Ward Alderman</Name5>
+  <TotalPrecincts>44</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>101</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Daniel LaSpata </Name>
+    <LastName>LaSpata</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 2nd Ward</Name1>
+  <Name2>Ward 2</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>2nd Ward Alderman</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>102</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Brian Hopkins </Name>
+    <LastName>Hopkins</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 3rd Ward</Name1>
+  <Name2>Ward 3</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>3rd Ward Alderman</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>103</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Pat Dowell </Name>
+    <LastName>Dowell</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 4th Ward</Name1>
+  <Name2>Ward 4</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>4th Ward Alderman</Name5>
+  <TotalPrecincts>38</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>104</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Sophia King </Name>
+    <LastName>King</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 7th Ward</Name1>
+  <Name2>Ward 7</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>7th Ward Alderman</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>107</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Gregory I. Mitchell </Name>
+    <LastName>Mitchell</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 8th Ward</Name1>
+  <Name2>Ward 8</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>8th Ward Alderman</Name5>
+  <TotalPrecincts>56</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>108</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Michelle Harris </Name>
+    <LastName>Harris</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 9th Ward</Name1>
+  <Name2>Ward 9</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>9th Ward Alderman</Name5>
+  <TotalPrecincts>51</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>109</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Anthony Beale </Name>
+    <LastName>Beale</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 10th Ward</Name1>
+  <Name2>Ward 10</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>10th Ward Alderman</Name5>
+  <TotalPrecincts>36</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>110</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Susan Sadlowski Garza </Name>
+    <LastName>Sadlowski Garza</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 11th Ward</Name1>
+  <Name2>Ward 11</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>11th Ward Alderman</Name5>
+  <TotalPrecincts>38</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>111</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Patrick Daley Thompson </Name>
+    <LastName>Thompson</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 12th Ward</Name1>
+  <Name2>Ward 12</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>12th Ward Alderman</Name5>
+  <TotalPrecincts>23</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>112</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>George Cardenas </Name>
+    <LastName>Cardenas</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 13th Ward</Name1>
+  <Name2>Ward 13</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>13th Ward Alderman</Name5>
+  <TotalPrecincts>48</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>113</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Marty Quinn </Name>
+    <LastName>Quinn</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 14th Ward</Name1>
+  <Name2>Ward 14</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>14th Ward Alderman</Name5>
+  <TotalPrecincts>31</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>114</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Edward M. Burke </Name>
+    <LastName>Burke</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 17th Ward</Name1>
+  <Name2>Ward 17</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>17th Ward Alderman</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>117</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>David H. Moore </Name>
+    <LastName>Moore</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 18th Ward</Name1>
+  <Name2>Ward 18</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>18th Ward Alderman</Name5>
+  <TotalPrecincts>50</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>118</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Derrick G. Curtis </Name>
+    <LastName>Curtis</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 19th Ward</Name1>
+  <Name2>Ward 19</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>19th Ward Alderman</Name5>
+  <TotalPrecincts>57</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>119</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Matthew O&apos;Shea </Name>
+    <LastName>O&apos;Shea</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 22nd Ward</Name1>
+  <Name2>Ward 22</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>22nd Ward Alderman</Name5>
+  <TotalPrecincts>25</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>122</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Michael D. Rodriguez </Name>
+    <LastName>Rodriguez</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 23rd Ward</Name1>
+  <Name2>Ward 23</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>23rd Ward Alderman</Name5>
+  <TotalPrecincts>39</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>123</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Silvana Tabares </Name>
+    <LastName>Tabares</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 24th Ward</Name1>
+  <Name2>Ward 24</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>24th Ward Alderman</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>124</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Michael Scott Jr.</Name>
+    <LastName>Scott</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 26th Ward</Name1>
+  <Name2>Ward 26</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>26th Ward Alderman</Name5>
+  <TotalPrecincts>49</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>126</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Robert Maldonado </Name>
+    <LastName>Maldonado</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 27th Ward</Name1>
+  <Name2>Ward 27</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>27th Ward Alderman</Name5>
+  <TotalPrecincts>50</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>127</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Walter  Burnett Jr.</Name>
+    <LastName>Burnett</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 28th Ward</Name1>
+  <Name2>Ward 28</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>28th Ward Alderman</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>128</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Jason C.  Ervin </Name>
+    <LastName>Ervin</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Party>NP</Party>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 29th Ward</Name1>
+  <Name2>Ward 29</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>29th Ward Alderman</Name5>
+  <TotalPrecincts>44</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>129</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Chris Taliaferro </Name>
+    <LastName>Taliaferro</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 32rd Ward</Name1>
+  <Name2>WARD 32</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>32rd Ward Alderman</Name5>
+  <TotalPrecincts>43</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>132</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Scott Waguespack </Name>
+    <LastName>Waguespack</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 34th Ward</Name1>
+  <Name2>Ward 34</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>34th Ward Alderman</Name5>
+  <TotalPrecincts>53</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>134</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Carrie M. Austin </Name>
+    <LastName>Austin</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 35th Ward</Name1>
+  <Name2>Ward 35</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>35th Ward Alderman</Name5>
+  <TotalPrecincts>31</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>135</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Carlos Ramirez-Rosa </Name>
+    <LastName>Ramirez-Rosa</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 36th Ward</Name1>
+  <Name2>Ward 36</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>36th Ward Alderman</Name5>
+  <TotalPrecincts>30</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>136</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Gilbert Villegas </Name>
+    <LastName>Villegas</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 37th Ward</Name1>
+  <Name2>Ward 37</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>37th Ward Alderman</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>137</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Emma M. Mitts </Name>
+    <LastName>Mitts</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 38th Ward</Name1>
+  <Name2>Ward 38</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>38th Ward Alderman</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>138</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Nicholas Sposata </Name>
+    <LastName>Sposata</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 41st Ward</Name1>
+  <Name2>Ward 41</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>41st Ward Alderman</Name5>
+  <TotalPrecincts>47</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>141</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Anthony V. Napolitano </Name>
+    <LastName>Napolitano</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 42nd Ward</Name1>
+  <Name2>Ward 42</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>42nd Ward Alderman</Name5>
+  <TotalPrecincts>42</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>142</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Brendan Reilly </Name>
+    <LastName>Reilly</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 44th Ward</Name1>
+  <Name2>Ward 44</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>44th Ward Alderman</Name5>
+  <TotalPrecincts>41</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>144</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Tom Tunney </Name>
+    <LastName>Tunney</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+    <Incumbent>I</Incumbent>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 45th Ward</Name1>
+  <Name2>Ward 45</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>45th Ward Alderman</Name5>
+  <TotalPrecincts>48</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>145</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>James &apos;Jim&apos; Gardiner </Name>
+    <LastName>Gardiner</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 48th Ward</Name1>
+  <Name2>Ward 48</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>48th Ward Alderman</Name5>
+  <TotalPrecincts>46</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>148</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Harry Osterman </Name>
+    <LastName>Osterman</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 49th Ward</Name1>
+  <Name2>Ward 49</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>49th Ward Alderman</Name5>
+  <TotalPrecincts>33</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>149</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Maria Hadden </Name>
+    <LastName>Hadden</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+<Race>
+  <Name1>Alderman 50th Ward</Name1>
+  <Name2>Ward 50</Name2>
+  <Name4>Chicago</Name4>
+  <Name5>50th Ward Alderman</Name5>
+  <TotalPrecincts>40</TotalPrecincts>
+  <PrecinctsReported>0</PrecinctsReported>
+  <PrecinctsPercentage>0</PrecinctsPercentage>
+  <RaceNumber>150</RaceNumber>
+  <RegisteredVoters>0</RegisteredVoters>
+  <VotesCast>0</VotesCast>
+  <Candidate>
+    <CandName2>1</CandName2>
+    <Name>Debra L. Silverstein </Name>
+    <LastName>Silverstein</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+  <Candidate>
+    <CandName2>2</CandName2>
+    <Name> None </Name>
+    <LastName>None</LastName>
+    <Votes>0</Votes>
+    <PercentageOfVotesCast>0</PercentageOfVotesCast>
+  </Candidate>
+</Race>
+
+</File>
